@@ -34,9 +34,8 @@ Menggunakan data dari Yahoo Finance, visualisasi interaktif Streamlit, dan metri
 ---
 
 ## 4️⃣ Screenshot
-![Tab Harga](images/tab_harga.png)
-![Tab Return](images/tab_return.png)
-![Tab Korelasi](images/tab_korelasi.png)
+![Ini tab harga saham](https://github.com/tantihakristuti203/stock-dashboard-/blob/main/harga.png?raw=true)
+
 
 ---
 
