@@ -8,8 +8,6 @@ Menggunakan data dari Yahoo Finance, visualisasi interaktif Streamlit, dan metri
 
 ## 1️⃣ Deskripsi Project
 - Tujuan: Membantu investor memahami performa saham, hubungan dengan berita, dan perbandingan per sektor.
-- Inovasi: Menggabungkan data harga saham, sentimen berita, dan informasi sektor untuk insight multi-dimensi.
-
 ---
 
 ## 2️⃣ Struktur Kode
@@ -34,7 +32,8 @@ Menggunakan data dari Yahoo Finance, visualisasi interaktif Streamlit, dan metri
 ---
 
 ## 4️⃣ Screenshot
-![alt text](https://github.com/tantihakristuti203/stock-dashboard-/blob/main/harga.png.png?raw=true)
+![alt text](https://github.com/tantihakristuti203/stock-dashboard-/blob/main/Screenshot%202026-01-19%20005726.png?raw=true)
+![alt text](https://github.com/tantihakristuti203/stock-dashboard-/blob/main/Screenshot%202026-01-19%20005812.png?raw=true)
 
 
 ---
